@@ -1,7 +1,7 @@
 {
   "accountName": "imap://roadrunneronroute66%40gmail.com@imap.gmail.com",
   "rootFolderURL": "imap://roadrunneronroute66%40gmail.com@imap.gmail.com",
-  "date": "2019-07-05T11:41:38.879Z",
+  "date": "2019-10-25T06:02:26.229Z",
   "filters": [
     {
       "filterName": "Gamez » RockstarGames",
@@ -64,10 +64,10 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
+          "attrib": 1,
           "value": {
-            "attrib": 6,
-            "str": "notification@komoot.de"
+            "attrib": 1,
+            "str": "tips@komoot.de"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
