@@ -1,7 +1,7 @@
 {
   "accountName": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
   "rootFolderURL": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
-  "date": "2019-10-28T08:48:15.736Z",
+  "date": "2019-10-28T14:00:41.117Z",
   "filters": [
     {
       "filterName": "OPS » tbuchboeck",
@@ -373,16 +373,6 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "root@icinga-test01.htb.intern"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
           "attrib": 1,
           "value": {
             "attrib": 1,
@@ -393,10 +383,20 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
+          "attrib": 1,
           "value": {
-            "attrib": 6,
-            "str": "nagios@icinga-test01.htb.intern"
+            "attrib": 1,
+            "str": "root@test01.htb.intern"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "root@test02.htb.intern"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
