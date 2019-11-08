@@ -1,8 +1,60 @@
 {
   "accountName": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
   "rootFolderURL": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
-  "date": "2019-10-28T14:00:41.117Z",
+  "date": "2019-11-08T07:30:24.830Z",
   "filters": [
+    {
+      "filterName": "0_employees » Support",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/0_employees/Support"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "support@beenergised.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Inbox » VPN",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/VPN"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "vpn@has-to-be.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
     {
       "filterName": "OPS » tbuchboeck",
       "filterDesc": "",
@@ -307,16 +359,6 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "nagios@icinga01.htb.intern"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
           "attrib": 1,
           "value": {
             "attrib": 1,
@@ -327,22 +369,12 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
+          "attrib": 1,
           "value": {
-            "attrib": 6,
-            "str": "root@icinga01.htb.intern"
+            "attrib": 1,
+            "str": "nagios@icinga01.htb.intern"
           },
           "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "op": 9,
-          "value": {
-            "attrib": 0,
-            "str": "Monitoring deployed to icinga01"
-          },
-          "booleanAnd": true,
           "beginsGrouping": false,
           "endsGrouping": false
         }
@@ -636,7 +668,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/VPN/Hymes"
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/VPN/Hymes-POST_LUX"
         },
         {
           "type": 17,
@@ -655,16 +687,6 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "nigel.licops@post.lu"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
           "attrib": 1,
           "value": {
             "attrib": 1,
@@ -675,10 +697,30 @@
           "endsGrouping": false
         },
         {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "guillaume.vangrevelinge@post.lu"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "klaus.fuchs@post.lu"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
           "attrib": 6,
           "value": {
             "attrib": 6,
-            "str": "m.haep@hymes.de"
+            "str": "klaus.fuchs@post.lu"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -919,6 +961,26 @@
           "value": {
             "attrib": 6,
             "str": "holger.tschoep@mail.schwarz"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "alexander.klooz@mail.schwarz"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "alexander.klooz@mail.schwarz"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
