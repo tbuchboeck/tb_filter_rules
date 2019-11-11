@@ -1,7 +1,7 @@
 {
   "accountName": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
   "rootFolderURL": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
-  "date": "2019-11-08T07:30:24.830Z",
+  "date": "2019-11-11T06:12:21.090Z",
   "filters": [
     {
       "filterName": "0_employees » Support",
@@ -22,6 +22,16 @@
           "value": {
             "attrib": 1,
             "str": "support@beenergised.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "support@has-to-be.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -1349,6 +1359,16 @@
           "value": {
             "attrib": 6,
             "str": "lukas.plankensteiner@elastic.co"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "elastic-alarm@has-to-be.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
