@@ -1,7 +1,7 @@
 {
   "accountName": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
   "rootFolderURL": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
-  "date": "2019-12-12T13:18:32.877Z",
+  "date": "2019-12-12T13:31:09.759Z",
   "filters": [
     {
       "filterName": "Server » Slow_Queries",
