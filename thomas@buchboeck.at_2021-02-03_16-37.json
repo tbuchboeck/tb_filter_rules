@@ -1,8 +1,35 @@
 {
-  "accountName": "imap://5449mail2@imap.easyname.eu",
-  "rootFolderURL": "imap://5449mail2@imap.easyname.eu",
-  "date": "2021-02-03T15:25:08.548Z",
+  "accountName": "imap://thomas%40buchboeck.at@imap.easyname.com",
+  "rootFolderURL": "imap://thomas%40buchboeck.at@imap.easyname.com",
+  "date": "2021-02-03T15:37:29.037Z",
   "filters": [
+    {
+      "filterName": "Important",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 16,
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/0_Important"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 16,
+          "op": 2,
+          "value": {
+            "attrib": 16,
+            "str": "$label1"
+          },
+          "booleanAnd": true,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
     {
       "filterName": "Sport » Strava",
       "filterDesc": "",
@@ -147,7 +174,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -262,16 +289,6 @@
           "value": {
             "attrib": 1,
             "str": "help@qwertee.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "newsletter@qwertee.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -2043,17 +2060,7 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "support@stormboard.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "support@stormboard.com"
+            "str": "support@link-assistant.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -2063,17 +2070,7 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "noreply@elizabethtoweruk.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "noreply@elizabethtoweruk.com"
+            "str": "postmaster@news.dawanda.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -2083,17 +2080,7 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "hello@fatmap.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "hello@fatmap.com"
+            "str": "@oncrawl.intercom-mail.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -2103,17 +2090,7 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "tomtom@email.tomtom.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "tomtom@email.tomtom.com"
+            "str": "info@pfotenhilfe.org"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -2123,17 +2100,7 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "news@aktuell.conrad.at"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "news@aktuell.conrad.at"
+            "str": "no-reply@engage.hyperledger.org"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -2143,17 +2110,7 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "info@news.runtastic.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "info@news.runtastic.com"
+            "str": "news.accorhotels@accor-mail.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -2163,7 +2120,87 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "mail@service.tvnow.de"
+            "str": "no-reply@diveboard.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "leclub@accor-mail.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@sellics.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "community@nl.outdooractive.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "marketing@alexa.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "noreply@rpdmanchesteruk.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "newsletter@openpetition.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "do-not-reply@imdb.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "marketing@sellics.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -2173,7 +2210,47 @@
           "attrib": 6,
           "value": {
             "attrib": 6,
-            "str": "mail@service.tvnow.de"
+            "str": "marketing@sellics.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "lauren@xtensio.helpcrunch-mail.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "lauren@xtensio.helpcrunch-mail.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "noreply@citysuitesmanchester.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "noreply@citysuitesmanchester.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -3028,222 +3105,6 @@
           "value": {
             "attrib": 1,
             "str": "office@originelli.at"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
-      "filterName": "thomas@buchboeck.at » Deleted",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/Trash"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "support@link-assistant.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "postmaster@news.dawanda.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "@oncrawl.intercom-mail.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "info@pfotenhilfe.org"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "no-reply@engage.hyperledger.org"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "news.accorhotels@accor-mail.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "no-reply@diveboard.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "leclub@accor-mail.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "info@sellics.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "community@nl.outdooractive.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "marketing@alexa.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "noreply@rpdmanchesteruk.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "newsletter@openpetition.de"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "do-not-reply@imdb.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "marketing@sellics.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "marketing@sellics.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "lauren@xtensio.helpcrunch-mail.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "lauren@xtensio.helpcrunch-mail.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "noreply@citysuitesmanchester.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "noreply@citysuitesmanchester.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -4642,7 +4503,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
