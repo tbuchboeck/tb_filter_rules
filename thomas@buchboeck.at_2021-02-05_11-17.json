@@ -1,7 +1,7 @@
 {
   "accountName": "imap://thomas%40buchboeck.at@imap.easyname.com",
   "rootFolderURL": "imap://thomas%40buchboeck.at@imap.easyname.com",
-  "date": "2021-02-05T06:33:28.341Z",
+  "date": "2021-02-05T10:17:00.557Z",
   "filters": [
     {
       "filterName": "Sport » Strava",
@@ -4749,6 +4749,26 @@
           "value": {
             "attrib": 6,
             "str": "info@schuhski.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "office@news.myproduct.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "office@news.myproduct.at"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
