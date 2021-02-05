@@ -13,7 +13,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Sport/Strava"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Sport/Strava"
         }
       ],
       "searchTerms": [
@@ -49,7 +49,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Ikea"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Ikea"
         }
       ],
       "searchTerms": [
@@ -75,7 +75,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/5-Elemente"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/5-Elemente"
         },
         {
           "type": 17,
@@ -115,7 +115,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Games/Epic"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Games/Epic"
         }
       ],
       "searchTerms": [
@@ -217,7 +217,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Gammon"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Gammon"
         }
       ],
       "searchTerms": [
@@ -299,7 +299,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/News_SocialMedia/StackOverflow"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/News_SocialMedia/StackOverflow"
         }
       ],
       "searchTerms": [
@@ -325,7 +325,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Immobilien/Grundbuchauszuege"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Immobilien/Grundbuchauszuege"
         }
       ],
       "searchTerms": [
@@ -351,7 +351,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Immobilien/K&APw-chen"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Immobilien/K&APw-chen"
         }
       ],
       "searchTerms": [
@@ -387,7 +387,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Immobilien/VarioHaus"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Immobilien/VarioHaus"
         }
       ],
       "searchTerms": [
@@ -413,7 +413,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/220Grad"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/220Grad"
         }
       ],
       "searchTerms": [
@@ -475,7 +475,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Zauner"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Zauner"
         }
       ],
       "searchTerms": [
@@ -501,7 +501,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Immobilien"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Immobilien"
         }
       ],
       "searchTerms": [
@@ -557,7 +557,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Immobilien/Grundst&APw-cke"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Immobilien/Grundst&APw-cke"
         }
       ],
       "searchTerms": [
@@ -603,7 +603,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/RedBull"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/RedBull"
         },
         {
           "type": 17,
@@ -663,7 +663,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/DevOps/DevOpsCon"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/DevOps/DevOpsCon"
         },
         {
           "type": 17,
@@ -703,7 +703,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Contracts/Uniqa"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Contracts/Uniqa"
         }
       ],
       "searchTerms": [
@@ -739,7 +739,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Sport/Loser"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Sport/Loser"
         }
       ],
       "searchTerms": [
@@ -775,7 +775,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/TB-QuickFilters"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/TB-QuickFilters"
         }
       ],
       "searchTerms": [
@@ -811,7 +811,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Contracts/Sky"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Contracts/Sky"
         }
       ],
       "searchTerms": [
@@ -847,7 +847,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Contracts/TVNow"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Contracts/TVNow"
         }
       ],
       "searchTerms": [
@@ -903,7 +903,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Contracts/Wahlkarten"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Contracts/Wahlkarten"
         }
       ],
       "searchTerms": [
@@ -939,7 +939,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Rewe"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Rewe"
         }
       ],
       "searchTerms": [
@@ -975,7 +975,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Jooooo"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Jooooo"
         }
       ],
       "searchTerms": [
@@ -1031,7 +1031,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Flexi"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Flexi"
         }
       ],
       "searchTerms": [
@@ -1067,7 +1067,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Bergzeit"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Bergzeit"
         }
       ],
       "searchTerms": [
@@ -1143,7 +1143,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Freunde"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Freunde"
         }
       ],
       "searchTerms": [
@@ -1179,7 +1179,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Audible"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Audible"
         }
       ],
       "searchTerms": [
@@ -1235,7 +1235,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Hotel_Travel/OEBB"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Hotel_Travel/OEBB"
         }
       ],
       "searchTerms": [
@@ -1271,7 +1271,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Zooplus"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Zooplus"
         }
       ],
       "searchTerms": [
@@ -1367,7 +1367,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Zoologo"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Zoologo"
         }
       ],
       "searchTerms": [
@@ -1423,7 +1423,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Saturn"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Saturn"
         }
       ],
       "searchTerms": [
@@ -1479,7 +1479,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Career/Vorsorgekassen"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Career/Vorsorgekassen"
         }
       ],
       "searchTerms": [
@@ -1525,7 +1525,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/0_origiNELLi"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/0_origiNELLi"
         }
       ],
       "searchTerms": [
@@ -1561,7 +1561,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Pralinen"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Pralinen"
         }
       ],
       "searchTerms": [
@@ -1597,7 +1597,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/DHL"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/DHL"
         }
       ],
       "searchTerms": [
@@ -1653,7 +1653,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Messen"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Messen"
         }
       ],
       "searchTerms": [
@@ -1689,7 +1689,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Hotel_Travel/Westbahn"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Hotel_Travel/Westbahn"
         }
       ],
       "searchTerms": [
@@ -1725,7 +1725,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Contracts/MacriumCloneTool"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Contracts/MacriumCloneTool"
         }
       ],
       "searchTerms": [
@@ -1781,7 +1781,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Beer/Flaschenfreund"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Beer/Flaschenfreund"
         }
       ],
       "searchTerms": [
@@ -1817,7 +1817,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Beer/Beertasting"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Beer/Beertasting"
         }
       ],
       "searchTerms": [
@@ -1913,7 +1913,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Contracts/RaiBa"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Contracts/RaiBa"
         }
       ],
       "searchTerms": [
@@ -1969,7 +1969,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Linux_and_IT/Qnap"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Linux_and_IT/Qnap"
         }
       ],
       "searchTerms": [
@@ -2025,7 +2025,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/Trash"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/Trash"
         }
       ],
       "searchTerms": [
@@ -2241,7 +2241,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Contracts/FinanzOnline"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Contracts/FinanzOnline"
         }
       ],
       "searchTerms": [
@@ -2413,7 +2413,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Dog/BARF"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Dog/BARF"
         },
         {
           "type": 17,
@@ -2463,7 +2463,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Sport/Suunto"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Sport/Suunto"
         }
       ],
       "searchTerms": [
@@ -2539,7 +2539,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Contracts/Asfinag"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Contracts/Asfinag"
         }
       ],
       "searchTerms": [
@@ -2595,7 +2595,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Beer/Beerlovers"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Beer/Beerlovers"
         }
       ],
       "searchTerms": [
@@ -2671,7 +2671,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Contracts/DREI"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Contracts/DREI"
         }
       ],
       "searchTerms": [
@@ -2767,7 +2767,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Dog/Futterkoerberl"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Dog/Futterkoerberl"
         }
       ],
       "searchTerms": [
@@ -2803,7 +2803,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Hotel_Travel/Airbnb"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Hotel_Travel/Airbnb"
         }
       ],
       "searchTerms": [
@@ -2859,7 +2859,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Shpock"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Shpock"
         }
       ],
       "searchTerms": [
@@ -2895,7 +2895,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Freunde/Harry"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Freunde/Harry"
         }
       ],
       "searchTerms": [
@@ -2921,7 +2921,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/News_SocialMedia/Instagram"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/News_SocialMedia/Instagram"
         }
       ],
       "searchTerms": [
@@ -2947,7 +2947,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Linux_and_IT"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Linux_and_IT"
         }
       ],
       "searchTerms": [
@@ -3003,7 +3003,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Vereine/Naturfreunde"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Vereine/Naturfreunde"
         }
       ],
       "searchTerms": [
@@ -3039,7 +3039,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Hotel_Travel/MotelOne"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Hotel_Travel/MotelOne"
         },
         {
           "type": 17,
@@ -3069,7 +3069,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/0_origiNELLi/origiNELLI"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/0_origiNELLi/origiNELLI"
         }
       ],
       "searchTerms": [
@@ -3095,7 +3095,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/0Buchi"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/0Buchi"
         }
       ],
       "searchTerms": [
@@ -3332,7 +3332,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Sport/Komoot"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Sport/Komoot"
         }
       ],
       "searchTerms": [
@@ -3358,7 +3358,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Vereine/AV"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Vereine/AV"
         }
       ],
       "searchTerms": [
@@ -3424,7 +3424,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Linux_and_IT/Github"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Linux_and_IT/Github"
         }
       ],
       "searchTerms": [
@@ -3522,7 +3522,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Streaming/Netflix"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Streaming/Netflix"
         }
       ],
       "searchTerms": [
@@ -3574,7 +3574,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/BadIschl"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/BadIschl"
         }
       ],
       "searchTerms": [
@@ -3611,7 +3611,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Linux_and_IT/Homeoffix"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Linux_and_IT/Homeoffix"
         }
       ],
       "searchTerms": [
@@ -3637,7 +3637,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Streaming/Dazn"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Streaming/Dazn"
         }
       ],
       "searchTerms": [
@@ -3663,7 +3663,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Career/Xing"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Career/Xing"
         }
       ],
       "searchTerms": [
@@ -3689,7 +3689,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/Trash/updates"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/Trash/updates"
         }
       ],
       "searchTerms": [
@@ -3751,7 +3751,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/Trash/Apple"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/Trash/Apple"
         }
       ],
       "searchTerms": [
@@ -3812,7 +3812,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/Trash/Westbahn"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/Trash/Westbahn"
         }
       ],
       "searchTerms": [
@@ -3839,7 +3839,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/Trash/EuroFlorist"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/Trash/EuroFlorist"
         }
       ],
       "searchTerms": [
@@ -3866,7 +3866,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/Trash/Nagios"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/Trash/Nagios"
         }
       ],
       "searchTerms": [
@@ -3929,7 +3929,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Contracts/EasyName"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Contracts/EasyName"
         }
       ],
       "searchTerms": [
@@ -4033,7 +4033,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Contracts/Verbund"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Contracts/Verbund"
         }
       ],
       "searchTerms": [
@@ -4100,7 +4100,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Sport/GoPro"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Sport/GoPro"
         }
       ],
       "searchTerms": [
@@ -4149,7 +4149,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Honza"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Honza"
         }
       ],
       "searchTerms": [
@@ -4176,7 +4176,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Contracts/PayPal"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Contracts/PayPal"
         }
       ],
       "searchTerms": [
@@ -4243,7 +4243,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/LogoIX"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/LogoIX"
         }
       ],
       "searchTerms": [
@@ -4270,7 +4270,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Nespresso"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Nespresso"
         }
       ],
       "searchTerms": [
@@ -4308,7 +4308,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/Trash/HiRez"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/Trash/HiRez"
         }
       ],
       "searchTerms": [
@@ -4335,7 +4335,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Contracts/Kreditkarte"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Contracts/Kreditkarte"
         }
       ],
       "searchTerms": [
@@ -4372,7 +4372,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/JoergLemmerer"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/JoergLemmerer"
         }
       ],
       "searchTerms": [
@@ -4399,7 +4399,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/Trash/Babbel"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/Trash/Babbel"
         }
       ],
       "searchTerms": [
@@ -4426,7 +4426,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Swarovski"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Shopping/Swarovski"
         }
       ],
       "searchTerms": [
@@ -4453,7 +4453,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/ErichSchymonski"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/ErichSchymonski"
         }
       ],
       "searchTerms": [
@@ -4802,7 +4802,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Sport/Fitbit"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Sport/Fitbit"
         }
       ],
       "searchTerms": [
@@ -4854,7 +4854,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/RaGroesswang"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/RaGroesswang"
         }
       ],
       "searchTerms": [
@@ -4937,7 +4937,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/News_SocialMedia/derStandard"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/News_SocialMedia/derStandard"
         }
       ],
       "searchTerms": [
@@ -4964,7 +4964,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Career/KarriereAT"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.eu/INBOX/Career/KarriereAT"
         }
       ],
       "searchTerms": [
