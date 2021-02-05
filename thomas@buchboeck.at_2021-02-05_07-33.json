@@ -1,71 +1,8 @@
 {
   "accountName": "imap://thomas%40buchboeck.at@imap.easyname.com",
   "rootFolderURL": "imap://thomas%40buchboeck.at@imap.easyname.com",
-  "date": "2021-02-04T09:41:46.509Z",
+  "date": "2021-02-05T06:33:28.341Z",
   "filters": [
-    {
-      "filterName": "Contracts » A1",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Contracts/A1"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "a1team@a1.net"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "a1team@a1.net"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
-      "filterName": "Important",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 16,
-          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/Trash/0_Important"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 16,
-          "op": 2,
-          "value": {
-            "attrib": 16,
-            "str": "$label1"
-          },
-          "booleanAnd": true,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
     {
       "filterName": "Sport » Strava",
       "filterDesc": "",
@@ -502,7 +439,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Streaming/DisneyPlus"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Streaming/DisneyPlus"
         }
       ],
       "searchTerms": [
@@ -2336,11 +2273,11 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": false,
+      "enabled": true,
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Contracts/A1"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Contracts/A1"
         }
       ],
       "searchTerms": [
@@ -3344,7 +3281,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Linux_and_IT/Google"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Linux_and_IT/Google"
         }
       ],
       "searchTerms": [
@@ -3539,7 +3476,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Ebay"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Shopping/Ebay"
         }
       ],
       "searchTerms": [
@@ -3788,7 +3725,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Shopping/Zalando"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Shopping/Zalando"
         }
       ],
       "searchTerms": [
@@ -4061,7 +3998,7 @@
       ]
     },
     {
-      "filterName": "LinikedIn",
+      "filterName": "LinkedIn",
       "filterDesc": "",
       "filterType": 17,
       "temporary": false,
@@ -4070,7 +4007,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Career/LinkedIn"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Career/LinkedIn"
         }
       ],
       "searchTerms": [
@@ -4543,7 +4480,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/Junk"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/Junk"
         }
       ],
       "searchTerms": [
@@ -4776,6 +4713,46 @@
           "booleanAnd": false,
           "beginsGrouping": false,
           "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "email@em.kickstarter.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "email@em.kickstarter.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@schuhski.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "info@schuhski.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
         }
       ]
     },
@@ -4851,7 +4828,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/News_SocialMedia/Willhaben"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/News_SocialMedia/Willhaben"
         }
       ],
       "searchTerms": [
