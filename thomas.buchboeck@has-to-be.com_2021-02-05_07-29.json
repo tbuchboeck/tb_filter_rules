@@ -1,7 +1,7 @@
 {
   "accountName": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
   "rootFolderURL": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
-  "date": "2021-02-02T16:52:22.173Z",
+  "date": "2021-02-05T06:29:10.807Z",
   "filters": [
     {
       "filterName": "Companies » NTS",
@@ -719,7 +719,7 @@
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/0_employees/HR"
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/0_employees/HR/tpirker"
         }
       ],
       "searchTerms": [
@@ -727,7 +727,7 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "payroll@has-to-be.com"
+            "str": "thomas.pirker@has-to-be.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -828,32 +828,6 @@
             "str": "Deployment"
           },
           "booleanAnd": true,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
-      "filterName": "0_employees » HR",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/0_employees/HR/tpirker"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "thomas.pirker@has-to-be.com"
-          },
-          "booleanAnd": false,
           "beginsGrouping": false,
           "endsGrouping": false
         }
