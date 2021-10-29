@@ -1,8 +1,568 @@
 {
   "accountName": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
   "rootFolderURL": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
-  "date": "2021-09-14T08:33:14.865Z",
+  "date": "2021-10-29T02:57:07.105Z",
   "filters": [
+    {
+      "filterName": "ChargePoint » lgross",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/ChargePoint/lgross"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "lisa.gross@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "lisa.gross@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "ChargePoint » asharma",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/ChargePoint/asharma"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "arvind.sharma@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "arvind.sharma@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » Fitek",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 2,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/Fitek"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "arturs.tiltins@kyndryl.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "andis@spx.lv"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » Hubject",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/Hubject"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "noreply@eroaming-platform.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Devs » jbaumgartner",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/0_employees/Devs/jbaumgartner"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "joerg.baumgartner@has-to-be.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Inbox » ChargePoint",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 2,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/ChargePoint"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "communications@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "it_bulletins@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "no_reply@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "noreply@okta.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "amber.karim@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "peopleops@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » ViriCiti",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 2,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/ViriCiti"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "support@viriciti.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "ChargePoint » rchavez",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 2,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/ChargePoint/rchavez"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "rebecca.chavez@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "ChargePoint » avoorn",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 2,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/ChargePoint/avoorn"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "amber.voorn@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "ChargePoint » promano",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/ChargePoint/promano"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "pasquale.romano@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Inbox » Misc",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Misc"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "has_to_be_de@news.mitarbeiterangebote.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » Tableau",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/Tableau"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "reghelp@tableau.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "community@tableau.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "0_employees » OPS",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/0_employees/OPS"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "grossglockner@has-to-be.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "operations@has-to-be.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Sales » npöltzl",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/0_employees/Sales/np&APY-ltzl"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "nina.poetzl@has-to-be.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » OpenVPN-net",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 2,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/OpenVPN-net"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "no-reply@openvpn.net"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "sales@openvpn.net"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "hello@openvpn.net"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » Elastic",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/Elastic"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "derek.mcdonnell@elastic.co"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
     {
       "filterName": "OPS » jschwarz",
       "filterDesc": "",
@@ -270,6 +830,56 @@
           "booleanAnd": false,
           "beginsGrouping": false,
           "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "webinar@dynatrace.ai"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "heather.archambault@dynatrace.ai"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "speil@dynatrace.ai"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "speil@dynatrace.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "sarah.heil@dynatrace.ai"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
         }
       ]
     },
@@ -356,12 +966,16 @@
       "filterDesc": "",
       "filterType": 17,
       "temporary": false,
-      "actionCount": 1,
+      "actionCount": 2,
       "enabled": true,
       "actionList": [
         {
           "type": 1,
           "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/DigiCert"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
         }
       ],
       "searchTerms": [
@@ -370,6 +984,16 @@
           "value": {
             "attrib": 1,
             "str": "updates@digicert.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "jonathan.webb@digicert.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -782,10 +1406,10 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
+          "attrib": 1,
           "value": {
-            "attrib": 6,
-            "str": "visualanalysis@data.tableau.com"
+            "attrib": 1,
+            "str": "jverhaeg@tableau.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -858,16 +1482,6 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "hello@thousandeyes.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
           "attrib": 1,
           "value": {
             "attrib": 1,
@@ -878,10 +1492,10 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
+          "attrib": 1,
           "value": {
-            "attrib": 6,
-            "str": "webinars@thousandeyes.com"
+            "attrib": 1,
+            "str": "emea@thousandeyes.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -918,29 +1532,9 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "birgit@hashicorp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "mkido@hashicorp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
             "str": "mkido@hashicorp.com"
           },
           "booleanAnd": false,
@@ -958,29 +1552,9 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "hashiconf@hashicorp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "newsletters@hashicorp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
             "str": "newsletters@hashicorp.com"
           },
           "booleanAnd": false,
@@ -998,10 +1572,10 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
+          "attrib": 1,
           "value": {
-            "attrib": 6,
-            "str": "team-rev-marketing@hashicorp.com"
+            "attrib": 1,
+            "str": "onur@hashicorp.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,

@@ -1,8 +1,106 @@
 {
   "accountName": "imap://thomas%40buchboeck.at@imap.easyname.com",
   "rootFolderURL": "imap://thomas%40buchboeck.at@imap.easyname.com",
-  "date": "2021-09-14T08:32:59.896Z",
+  "date": "2021-10-29T02:57:13.958Z",
   "filters": [
+    {
+      "filterName": "Inbox » Neli",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Neli"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "neli@buchboeck.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Inbox » Sport",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Sport"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@postalm.ski"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "DevOps » Slack",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/DevOps/Slack"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "notification@slack.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "feedback@slack.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "no-reply-nctdcfbwfcjid0lrmfzasryo@slack.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
     {
       "filterName": "Shopping » Koro",
       "filterDesc": "",
@@ -22,6 +120,16 @@
           "value": {
             "attrib": 1,
             "str": "noreply@korodrogerie.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "service@korodrogerie.de"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -246,6 +354,26 @@
           "value": {
             "attrib": 6,
             "str": "hashiconf@hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "newsletter@hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "newsletter@hashicorp.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -3730,12 +3858,16 @@
       "filterDesc": "",
       "filterType": 17,
       "temporary": false,
-      "actionCount": 1,
+      "actionCount": 2,
       "enabled": true,
       "actionList": [
         {
           "type": 1,
           "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Vereine/Naturfreunde"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
         }
       ],
       "searchTerms": [
@@ -3754,6 +3886,16 @@
           "value": {
             "attrib": 1,
             "str": "office@naturfreunde-badischl.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@naturfreunde.at"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -3996,6 +4138,46 @@
           "value": {
             "attrib": 6,
             "str": "thomas.buchboeck@has-to-be.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@flaschenfreund.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "info@flaschenfreund.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@kueche-co.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "info@kueche-co.de"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -4829,6 +5011,16 @@
           "value": {
             "attrib": 1,
             "str": "rueckzahlung@verbund.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "noreply@newsletter.verbund.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
