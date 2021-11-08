@@ -1,8 +1,136 @@
 {
   "accountName": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
   "rootFolderURL": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
-  "date": "2021-10-29T02:57:07.105Z",
+  "date": "2021-11-08T08:18:39.453Z",
   "filters": [
+    {
+      "filterName": "Server » APT",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Server/APT"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 0,
+          "value": {
+            "attrib": 0,
+            "str": "apt-listchanges"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "PM » kkirchmayr",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/0_employees/PM/kkirchmayr"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "kevin.kirchmayr@has-to-be.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "kevin.kirchmayr@has-to-be.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "OPS » mengl",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/0_employees/OPS/mengl"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "michael.engl@has-to-be.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » Ionity",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 2,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/Ionity"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "antonios.pandroulas@ionity.eu"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "mikhail.kireev@nl.abb.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
     {
       "filterName": "ChargePoint » lgross",
       "filterDesc": "",
@@ -134,6 +262,16 @@
           "value": {
             "attrib": 1,
             "str": "noreply@eroaming-platform.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "support@hubject.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -1576,6 +1714,16 @@
           "value": {
             "attrib": 1,
             "str": "onur@hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "newsletter@hashicorp.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -3151,32 +3299,6 @@
           "value": {
             "attrib": 1,
             "str": "support@finkzeit.at"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
-      "filterName": "OPS » mengl",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/0_employees/OPS/mengl"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "michael.engl@has-to-be.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -6065,16 +6187,6 @@
           "value": {
             "attrib": 1,
             "str": "herbert.steger@has-to-be.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "noreply@email.teams.microsoft.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
