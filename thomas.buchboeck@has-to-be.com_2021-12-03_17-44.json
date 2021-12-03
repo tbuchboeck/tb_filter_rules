@@ -1,8 +1,96 @@
 {
   "accountName": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
   "rootFolderURL": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
-  "date": "2021-11-08T08:18:39.453Z",
+  "date": "2021-12-03T16:44:56.786Z",
   "filters": [
+    {
+      "filterName": "ChargePoint » esidle",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/ChargePoint/esidle"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "eric.sidle@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » AMZ",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/AMZ"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "aws-account-update-noreply@amazon.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "password-reset-noreply@aws.amazon.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "ChargePoint » akishoendajal",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/ChargePoint/akishoendajal"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "anil.kishoendajal@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
     {
       "filterName": "Server » APT",
       "filterDesc": "",
@@ -378,6 +466,16 @@
           "value": {
             "attrib": 1,
             "str": "peopleops@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "noreply@brandvessel.orderpromos.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -1728,6 +1826,26 @@
           "booleanAnd": false,
           "beginsGrouping": false,
           "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "hashitalks@hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
         }
       ]
     },
@@ -1921,6 +2039,26 @@
           "value": {
             "attrib": 6,
             "str": "info@confluent.io"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "rnorth@hello.confluent.io"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "rnorth@hello.confluent.io"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -5067,42 +5205,6 @@
       ]
     },
     {
-      "filterName": "Atlassian » JIRA-NEW",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Atlassian/JIRA-NEW"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "atlassian@has-to-be.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 0,
-          "value": {
-            "attrib": 0,
-            "str": "JIRA"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
       "filterName": "Atlassian » CONFLUENCE-NEW",
       "filterDesc": "",
       "filterType": 17,
@@ -5429,32 +5531,6 @@
           "value": {
             "attrib": 1,
             "str": "lisa.schartner@has-to-be.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
-      "filterName": "Atlassian » Jira-NG",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/Trash/Jira-NG"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 0,
-          "value": {
-            "attrib": 0,
-            "str": "[JIRA-NG]"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -5829,42 +5905,6 @@
       ]
     },
     {
-      "filterName": "Atlassian » JIRA_OLD",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/Trash/JIRA_OLD"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 0,
-          "value": {
-            "attrib": 0,
-            "str": "JIRA"
-          },
-          "booleanAnd": true,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "gitlab"
-          },
-          "booleanAnd": true,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
       "filterName": "Atlassian » Confluence-TEST01",
       "filterDesc": "",
       "filterType": 17,
@@ -5885,42 +5925,6 @@
             "str": "CONFLUENCE-TEST01"
           },
           "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
-      "filterName": "Atlassian » JIRA-TEST01",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Atlassian/JIRA-TEST01"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 0,
-          "value": {
-            "attrib": 0,
-            "str": "JIRA-TEST01"
-          },
-          "booleanAnd": true,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "atlassian@has-to-be.com"
-          },
-          "booleanAnd": true,
           "beginsGrouping": false,
           "endsGrouping": false
         }
@@ -6545,16 +6549,6 @@
           "booleanAnd": false,
           "beginsGrouping": false,
           "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "noreply@email.teams.microsoft.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
         }
       ]
     },
@@ -6663,6 +6657,140 @@
           "value": {
             "attrib": 6,
             "str": "christof.buehrer@fullstacks.eu"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Atlassian » JIRA-NEW",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Atlassian/JIRA-NEW"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "atlassian@has-to-be.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 0,
+          "value": {
+            "attrib": 0,
+            "str": "JIRA"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Atlassian » JIRA-TEST01",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Atlassian/JIRA-TEST01"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 0,
+          "value": {
+            "attrib": 0,
+            "str": "JIRA-TEST01"
+          },
+          "booleanAnd": true,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "atlassian@has-to-be.com"
+          },
+          "booleanAnd": true,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Atlassian » JIRA_OLD",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/Trash/JIRA_OLD"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 0,
+          "value": {
+            "attrib": 0,
+            "str": "JIRA"
+          },
+          "booleanAnd": true,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "gitlab"
+          },
+          "booleanAnd": true,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Atlassian » Jira-NG",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/Trash/Jira-NG"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 0,
+          "value": {
+            "attrib": 0,
+            "str": "[JIRA-NG]"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
