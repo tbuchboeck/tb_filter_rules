@@ -1,8 +1,60 @@
 {
   "accountName": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
   "rootFolderURL": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
-  "date": "2022-02-22T07:05:39.998Z",
+  "date": "2022-03-18T07:06:56.966Z",
   "filters": [
+    {
+      "filterName": "ChargePoint » ITSD",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/ChargePoint/ITSD"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "jira@chargepoint.atlassian.net"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Inbox » AWS",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/AWS"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "aws-automation@email.amazon.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
     {
       "filterName": "Companies » Confluent",
       "filterDesc": "",
@@ -5032,22 +5084,32 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "root@smtp01.htb.intern"
-          },
-          "booleanAnd": true,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
           "attrib": 0,
           "value": {
             "attrib": 0,
             "str": "pflogsumm"
           },
           "booleanAnd": true,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "root@smtp01.bo-test.htb"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "root@smtp01.bo-prod.htb"
+          },
+          "booleanAnd": false,
           "beginsGrouping": false,
           "endsGrouping": false
         }
