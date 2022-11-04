@@ -1,0 +1,1489 @@
+{
+  "accountName": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com",
+  "rootFolderURL": "",
+  "date": "2022-09-22T07:03:34.367Z",
+  "filters": [
+    {
+      "filterName": "Support » rberger",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/0_employees/Support/rberger"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "rita.berger@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "ChargePoint » rlunani",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/ChargePoint/rlunani"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "rupali.lunani@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "rupali.lunani@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "thomas.buchboeck@chargepoint.com » Inbox",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Companies/Elastic"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "productupdate@elastic.co"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "productupdate@elastic.co"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Server » APT",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Server/APT"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "root@rds-client.htb.intern"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "VPN » Hymes-POST_LUX",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/VPN/Hymes-POST_LUX"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "gprscorp@post.lu"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "gprscorp@post.lu"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Inbox » ChargePoint",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/ChargePoint"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "messages-noreply@linkedin.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "noreply@okta.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Support » frexhepi",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 2,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/0_employees/Support/frexhepi"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "fidan.rexhepi@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "fidan.rexhepi@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Support » swinter",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/0_employees/Support/swinter"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "sandra.winter@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "ChargePoint » esidle",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/ChargePoint/esidle"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "eric.sidle@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "eric.sidle@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » Auth0",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 2,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Companies/Auth0"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "customer-care@auth0.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "no-reply-support@auth0.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "ChargePoint » abloemendal",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/ChargePoint/abloemendal"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "andre.tenbloemendal@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "andre.tenbloemendal@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » Elastic",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Companies/Elastic"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "events@elastic.co"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "events@elastic.co"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » HashiCorp",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Companies/HashiCorp"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "no-reply@reply.hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "hashitalks@reply.hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "ChargePoint » InfoSec",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 2,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/ChargePoint/InfoSec"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "infosec@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "infosec@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Misc » Slack",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Misc/Slack"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "no-reply@email.slackhq.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "no-reply@email.slackhq.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "no-reply@slack.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "no-reply@slack.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » Lucid",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Companies/Lucid"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "email@lucidchart.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "notice@lucidchart.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "email@lucid.co"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » Metabase",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Companies/Metabase"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "hello@metabase.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "hello@metabase.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » LetsEncrypt",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Companies/LetsEncrypt"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "noreply@letsencrypt.org"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "noreply@letsencrypt.org"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Server » Icinga-new-infra",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Server/Icinga-new-infra"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "bo-test.htb"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "bo-prod.htb"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Atlassian » Confluence-CP",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Atlassian/Confluence-CP"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "confluence@chargepoint.atlassian.net"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "confluence@chargepoint.atlassian.net"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Atlassian » Jira-CP",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Atlassian/Jira-CP"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "jira@chargepoint.atlassian.net"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "jira@chargepoint.atlassian.net"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Inbox » 0_employees",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/0_employees"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "has_to_be_de@news.mitarbeiterangebote.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "has_to_be_de@news.mitarbeiterangebote.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "no-reply@wpengine.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "no-reply@wpengine.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Inbox » Companies",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Companies"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "support@uptimerobot.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "support@uptimerobot.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » DigiCert",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Companies/DigiCert"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "updates@digicert.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "updates@digicert.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » Confluent",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Companies/Confluent"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@hello.confluent.io"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "info@hello.confluent.io"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@confluent.io"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "info@confluent.io"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Inbox » AWS",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/AWS"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "aws-marketing-email-replies@amazon.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "aws-marketing-email-replies@amazon.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "no-reply@amazon.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "no-reply@amazon.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "aws-customer-research@amazon.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "aws-customer-research@amazon.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "no-reply@marketplace.aws"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "no-reply@marketplace.aws"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Misc » Conferences",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Misc/Conferences"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "newsletter@devopscon.io"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "newsletter@entwickler-akademie.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "newsletter@serverless-architecture.io"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Office-IT » mmergim",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/0_employees/Office-IT/mmergim"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "mergim.musliu@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "mergim.musliu@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » Lacework",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Companies/Lacework"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "lacework@express.sea1.medallia.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "lacework@express.sea1.medallia.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "research@techvalidate.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "research@techvalidate.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Support » nwallner",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/0_employees/Support/nwallner"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "niklas.wallner@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "niklas.wallner@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » CloudAMQP",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Companies/CloudAMQP"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "support@cloudamqp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "support@cloudamqp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "ChargePoint » PeopleOPS",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/ChargePoint/PeopleOPS"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "newhireannouncement@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "newhireannouncement@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "notifications@cultureamp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "notifications@cultureamp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "ChargePoint » ESPP",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/ChargePoint/ESPP"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "etrade@e.etradefinancial.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "etrade@e.etradefinancial.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "stockadmin@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "stockadmin@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "e-tradealerts-donotreply@etrade.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "e-tradealerts-donotreply@etrade.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » WhereverSIM",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Companies/WhereverSIM"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "sales@whereversim.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » OpenVPN-net",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 2,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Companies/OpenVPN-net"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "hello@openvpn.net"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "diana.kriachok@openvpn.net"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "FTP dir",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "owl-ews://thomas.buchboeck%40chargepoint.com@outlook.office365.com/Inbox/Server"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 0,
+          "value": {
+            "attrib": 0,
+            "str": "FTP-dir recreated again"
+          },
+          "booleanAnd": true,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    }
+  ]
+}

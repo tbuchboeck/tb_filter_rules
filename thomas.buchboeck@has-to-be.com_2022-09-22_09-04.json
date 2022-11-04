@@ -1,7 +1,7 @@
 {
-  "accountName": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
-  "rootFolderURL": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com",
-  "date": "2022-06-20T05:33:17.270Z",
+  "accountName": "imap://thomas.buchboeck%40has-to-be.com@outlook.office365.com",
+  "rootFolderURL": "imap://thomas.buchboeck%40has-to-be.com@outlook.office365.com",
+  "date": "2022-09-22T07:04:28.337Z",
   "filters": [
     {
       "filterName": "Server » pfsense-restart",
@@ -45,43 +45,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Server/pflogsumm"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "root@smtp01.bo-prod.htb"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 0,
-          "value": {
-            "attrib": 0,
-            "str": "pflogsum"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
-      "filterName": "Server » pflogsumm",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -103,7 +67,7 @@
           "attrib": 0,
           "value": {
             "attrib": 0,
-            "str": "pflogsum"
+            "str": "pflogsumm"
           },
           "booleanAnd": true,
           "beginsGrouping": false,
@@ -117,7 +81,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -244,12 +208,16 @@
       "filterDesc": "",
       "filterType": 17,
       "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
+      "actionCount": 2,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
           "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/AWS"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
         }
       ],
       "searchTerms": [
@@ -257,7 +225,147 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "aws-automation@email.amazon.com"
+            "str": "no-reply-aws@amazon.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "ninakoll@amazon.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "aws-marketing-email-replies@amazon.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "awsemea@theonlinexpo.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "route53-dev-admin@amazon.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "jsiklar@amazon.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "customercare@gotowebinar.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "no-reply@marketplace.aws"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "no-reply@marketplace.aws"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "juffina@amazon.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "juffina@amazon.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "cmotoi@amazon.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "cmotoi@amazon.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "no-reply@virtual.awsevents.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "no-reply@virtual.awsevents.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -270,12 +378,16 @@
       "filterDesc": "",
       "filterType": 17,
       "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
+      "actionCount": 2,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
           "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/Confluent"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
         }
       ],
       "searchTerms": [
@@ -283,7 +395,57 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "noreply@confluent.io"
+            "str": "info@hello.confluent.io"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "info@hello.confluent.io"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@confluent.io"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "info@confluent.io"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "rnorth@hello.confluent.io"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "rnorth@hello.confluent.io"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -322,12 +484,16 @@
       "filterDesc": "",
       "filterType": 17,
       "temporary": false,
-      "actionCount": 1,
+      "actionCount": 2,
       "enabled": true,
       "actionList": [
         {
           "type": 1,
           "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/HashiCorp"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
         }
       ],
       "searchTerms": [
@@ -335,7 +501,87 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "no-reply@hashicorp.com"
+            "str": "birgit@hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "mkido@hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "hashiconf@hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "newsletters@hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "team-rev-marketing@hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "onur@hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "newsletter@hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@hashicorp.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "hashitalks@hashicorp.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -374,16 +620,12 @@
       "filterDesc": "",
       "filterType": 17,
       "temporary": false,
-      "actionCount": 2,
-      "enabled": true,
+      "actionCount": 1,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
           "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/0_employees/Office-IT/mholzinger"
-        },
-        {
-          "type": 17,
-          "strValue": "$label1"
         }
       ],
       "searchTerms": [
@@ -391,7 +633,17 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "mario.holzinger@chargepoint.com"
+            "str": "mario.holzinger@has-to-be.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "mario.holzinger@has-to-be.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -405,7 +657,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -417,7 +669,27 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "info@gitlab.com"
+            "str": "newsletter@entwickler-akademie.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "newsletter@devopscon.io"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "newsletter@mlconference.ai"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -430,12 +702,16 @@
       "filterDesc": "",
       "filterType": 17,
       "temporary": false,
-      "actionCount": 1,
+      "actionCount": 2,
       "enabled": true,
       "actionList": [
         {
           "type": 1,
           "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/ChargePoint"
+        },
+        {
+          "type": 17,
+          "strValue": "$label1"
         }
       ],
       "searchTerms": [
@@ -443,17 +719,77 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "infosec@chargepoint.com"
+            "str": "communications@chargepoint.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
           "endsGrouping": false
         },
         {
-          "attrib": 6,
+          "attrib": 1,
           "value": {
-            "attrib": 6,
-            "str": "infosec@chargepoint.com"
+            "attrib": 1,
+            "str": "it_bulletins@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "no_reply@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "noreply@okta.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "amber.karim@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "peopleops@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "noreply@brandvessel.orderpromos.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "noreply@box.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -607,7 +943,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -904,106 +1240,6 @@
       ]
     },
     {
-      "filterName": "Inbox » ChargePoint",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 2,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/ChargePoint"
-        },
-        {
-          "type": 17,
-          "strValue": "$label1"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "communications@chargepoint.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "it_bulletins@chargepoint.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "no_reply@chargepoint.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "noreply@okta.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "amber.karim@chargepoint.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "peopleops@chargepoint.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "noreply@brandvessel.orderpromos.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "noreply@box.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
       "filterName": "Companies » ViriCiti",
       "filterDesc": "",
       "filterType": 17,
@@ -1125,7 +1361,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -1163,7 +1399,7 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "reghelp@tableau.com"
+            "str": "visualanalysis@data.tableau.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -1173,7 +1409,7 @@
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "community@tableau.com"
+            "str": "jverhaeg@tableau.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -1187,7 +1423,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -1249,7 +1485,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 2,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -1442,48 +1678,12 @@
       ]
     },
     {
-      "filterName": "Office-IT » mholzinger",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/0_employees/Office-IT/mholzinger"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "mario.holzinger@has-to-be.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "mario.holzinger@has-to-be.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
       "filterName": "Companies » Auth0",
       "filterDesc": "",
       "filterType": 1,
       "temporary": false,
       "actionCount": 2,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -1733,7 +1933,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 2,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -1773,7 +1973,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -1836,56 +2036,6 @@
           "value": {
             "attrib": 1,
             "str": "no-reply@portal.appdynamics.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
-      "filterName": "Companies » CloudAMQP",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 2,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/CloudAMQP"
-        },
-        {
-          "type": 17,
-          "strValue": "$label1"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "contact@cloudamqp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "no-reply@cloudamqp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "support@cloudamqp.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -2168,42 +2318,6 @@
       ]
     },
     {
-      "filterName": "Companies » Tableau",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/Tableau"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "visualanalysis@data.tableau.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "jverhaeg@tableau.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
       "filterName": "HR » payroll",
       "filterDesc": "",
       "filterType": 17,
@@ -2290,122 +2404,12 @@
       ]
     },
     {
-      "filterName": "Companies » HashiCorp",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 2,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/HashiCorp"
-        },
-        {
-          "type": 17,
-          "strValue": "$label1"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "birgit@hashicorp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "mkido@hashicorp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "hashiconf@hashicorp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "newsletters@hashicorp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "team-rev-marketing@hashicorp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "onur@hashicorp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "newsletter@hashicorp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "info@hashicorp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "hashitalks@hashicorp.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
       "filterName": "Icinga planned DOWNTIME",
       "filterDesc": "",
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -2530,86 +2534,6 @@
           "value": {
             "attrib": 6,
             "str": "alerts@thousandeyes.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
-      "filterName": "Companies » Confluent",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 2,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Companies/Confluent"
-        },
-        {
-          "type": 17,
-          "strValue": "$label1"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "info@hello.confluent.io"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "info@hello.confluent.io"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "info@confluent.io"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "info@confluent.io"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "rnorth@hello.confluent.io"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "rnorth@hello.confluent.io"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -3325,7 +3249,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -3361,7 +3285,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -3515,7 +3439,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -3541,7 +3465,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -3717,7 +3641,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -3975,7 +3899,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -3998,176 +3922,6 @@
           "value": {
             "attrib": 1,
             "str": "noreply@finkzeit.at"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
-      "filterName": "Inbox » AWS",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 2,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/AWS"
-        },
-        {
-          "type": 17,
-          "strValue": "$label1"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "no-reply-aws@amazon.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "ninakoll@amazon.de"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "aws-marketing-email-replies@amazon.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "awsemea@theonlinexpo.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "route53-dev-admin@amazon.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "jsiklar@amazon.at"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "customercare@gotowebinar.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "no-reply@marketplace.aws"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "no-reply@marketplace.aws"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "juffina@amazon.at"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "juffina@amazon.at"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "cmotoi@amazon.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "cmotoi@amazon.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "no-reply@virtual.awsevents.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "no-reply@virtual.awsevents.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -4317,7 +4071,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -4405,7 +4159,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 2,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -4688,52 +4442,6 @@
       ]
     },
     {
-      "filterName": "Misc » Conferences",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Misc/Conferences"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "newsletter@entwickler-akademie.de"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "newsletter@devopscon.io"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "newsletter@mlconference.ai"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
       "filterName": "VPN » Alpiq",
       "filterDesc": "",
       "filterType": 17,
@@ -4877,7 +4585,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -5147,7 +4855,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -5249,7 +4957,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -5290,48 +4998,12 @@
       ]
     },
     {
-      "filterName": "Server » pflogsumm",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas.buchboeck%40has-to-be.com@imap-mail.outlook.com/INBOX/Server/pflogsumm"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "root@smtp01.htb.intern"
-          },
-          "booleanAnd": true,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 0,
-          "value": {
-            "attrib": 0,
-            "str": "pflogsumm"
-          },
-          "booleanAnd": true,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
       "filterName": "Server » Icinga-TEST",
       "filterDesc": "",
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -5745,7 +5417,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -5967,7 +5639,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -6141,7 +5813,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -6347,7 +6019,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -6393,7 +6065,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -6481,7 +6153,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -6533,7 +6205,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -6673,7 +6345,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -7041,7 +6713,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
@@ -7261,7 +6933,7 @@
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": true,
+      "enabled": false,
       "actionList": [
         {
           "type": 1,
