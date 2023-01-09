@@ -1,8 +1,364 @@
 {
   "accountName": "imap://thomas%40buchboeck.at@imap.easyname.com",
   "rootFolderURL": "imap://thomas%40buchboeck.at@imap.easyname.com",
-  "date": "2022-11-08T20:20:47.742Z",
+  "date": "2023-01-09T13:26:58.686Z",
   "filters": [
+    {
+      "filterName": "Finanzen » Etrade",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Finanzen/Etrade"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "etrade_stmt_mbox@statement.etradefinancial.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "etrade_stmt_mbox@statement.etradefinancial.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "etrade_conf_mbox@statement.etradefinancial.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "etrade_conf_mbox@statement.etradefinancial.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Shopping » Dygma",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Shopping/Dygma"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "contact@dygma.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "contact@dygma.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "0Buchi » GMAIL",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/0Buchi/GMAIL"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "roadrunneronroute66@googlemail.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "roadrunneronroute66@googlemail.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Companies » 1Password",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 2,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Companies/1Password"
+        },
+        {
+          "type": 17,
+          "strValue": "$label3"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@email.1password.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "info@email.1password.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "hello@1password.eu"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "hello@1password.eu"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "no-reply@1password.eu"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "no-reply@1password.eu"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Shopping » Eventim",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 2,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Shopping/Eventim"
+        },
+        {
+          "type": 17,
+          "strValue": "$label3"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@eventim.pl"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "info@eventim.pl"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Shopping » GEA",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Shopping/GEA"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "gea@gea.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "gea@gea.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Shopping » WirKaufenDeinAuto",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Shopping/WirKaufenDeinAuto"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "n@info.wirkaufendeinauto.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "mail@info.wirkaufendeinauto.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "moritz@service.wirkaufendeinauto.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Finanzen » Flatex",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Finanzen/Flatex"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@flatex.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
     {
       "filterName": "Sport » Runme",
       "filterDesc": "",
@@ -286,6 +642,26 @@
           "booleanAnd": false,
           "beginsGrouping": false,
           "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "info@shop-apotheke.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "info@shop-apotheke.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
         }
       ]
     },
@@ -308,6 +684,102 @@
           "value": {
             "attrib": 1,
             "str": "service@lead-horizon.org"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        }
+      ]
+    },
+    {
+      "filterName": "Shopping » Zooplus",
+      "filterDesc": "",
+      "filterType": 17,
+      "temporary": false,
+      "actionCount": 1,
+      "enabled": true,
+      "actionList": [
+        {
+          "type": 1,
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Shopping/Zooplus"
+        }
+      ],
+      "searchTerms": [
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "service@zooplus.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "service@zooplus.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "kundenservice@service.zooplus.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "kundenservice@service.zooplus.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "newsletter@service.zooplus.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "newsletter@service.zooplus.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "service@service.zooplus.de"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "service@service.zooplus.de"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -418,12 +890,16 @@
       "filterDesc": "",
       "filterType": 17,
       "temporary": false,
-      "actionCount": 1,
+      "actionCount": 2,
       "enabled": true,
       "actionList": [
         {
           "type": 1,
           "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Contracts/HoT"
+        },
+        {
+          "type": 17,
+          "strValue": "$label3"
         }
       ],
       "searchTerms": [
@@ -432,6 +908,16 @@
           "value": {
             "attrib": 1,
             "str": "noreply@hot.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "rufnummer@hot.at"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -1978,6 +2464,46 @@
           "booleanAnd": false,
           "beginsGrouping": false,
           "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "angebot@uniqa.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "angebot@uniqa.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "natalie.mittendorfer@uniqa.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
+        },
+        {
+          "attrib": 6,
+          "value": {
+            "attrib": 6,
+            "str": "natalie.mittendorfer@uniqa.at"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
         }
       ]
     },
@@ -2314,32 +2840,6 @@
       ]
     },
     {
-      "filterName": "LinkedIn",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Career/LinkedIn"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "linkedin.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
       "filterName": "Shopping » Bergzeit",
       "filterDesc": "",
       "filterType": 17,
@@ -2536,102 +3036,6 @@
           "value": {
             "attrib": 6,
             "str": "tickets@oebb.at"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        }
-      ]
-    },
-    {
-      "filterName": "Shopping » Zooplus",
-      "filterDesc": "",
-      "filterType": 17,
-      "temporary": false,
-      "actionCount": 1,
-      "enabled": true,
-      "actionList": [
-        {
-          "type": 1,
-          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Shopping/Zooplus"
-        }
-      ],
-      "searchTerms": [
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "service@zooplus.de"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "service@zooplus.de"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "kundenservice@service.zooplus.de"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "kundenservice@service.zooplus.de"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "newsletter@service.zooplus.de"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "newsletter@service.zooplus.de"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "service@service.zooplus.de"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "service@service.zooplus.de"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -3062,16 +3466,6 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "no-reply@cleverbridge.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
           "attrib": 1,
           "value": {
             "attrib": 1,
@@ -3082,30 +3476,10 @@
           "endsGrouping": false
         },
         {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "no-reply@macrium.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
           "attrib": 1,
           "value": {
             "attrib": 1,
-            "str": "sales@macrium.com"
-          },
-          "booleanAnd": false,
-          "beginsGrouping": false,
-          "endsGrouping": false
-        },
-        {
-          "attrib": 6,
-          "value": {
-            "attrib": 6,
-            "str": "sales@macrium.com"
+            "str": "saul.g.painter@macrium.com"
           },
           "booleanAnd": false,
           "beginsGrouping": false,
@@ -4350,6 +4724,16 @@
           "booleanAnd": false,
           "beginsGrouping": false,
           "endsGrouping": false
+        },
+        {
+          "attrib": 1,
+          "value": {
+            "attrib": 1,
+            "str": "harald.sommerer@chargepoint.com"
+          },
+          "booleanAnd": false,
+          "beginsGrouping": false,
+          "endsGrouping": false
         }
       ]
     },
@@ -5514,16 +5898,16 @@
       ]
     },
     {
-      "filterName": "LinikedIn",
+      "filterName": "LinkedIn",
       "filterDesc": "",
       "filterType": 17,
       "temporary": false,
       "actionCount": 1,
-      "enabled": false,
+      "enabled": true,
       "actionList": [
         {
           "type": 1,
-          "targetFolderUri": "imap://5449mail2@imap.easyname.eu/INBOX/Career/LinkedIn"
+          "targetFolderUri": "imap://thomas%40buchboeck.at@imap.easyname.com/INBOX/Career/LinkedIn"
         }
       ],
       "searchTerms": [
