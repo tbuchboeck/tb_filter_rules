@@ -1,7 +1,7 @@
 {
   "accountName": "imap://thomas%40buchboeck.at@imap.easyname.com",
   "rootFolderURL": "imap://thomas%40buchboeck.at@imap.easyname.com",
-  "date": "2024-06-05T06:30:05.301Z",
+  "date": "2024-06-05T06:34:50.657Z",
   "filters": [
     {
       "filterName": "Contracts » Oeamtc",
@@ -6392,7 +6392,7 @@
             "attrib": 1,
             "str": "service@paypal.at"
           },
-          "booleanAnd": false,
+          "booleanAnd": true,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -6402,7 +6402,7 @@
             "attrib": 1,
             "str": "service@paypal.com"
           },
-          "booleanAnd": false,
+          "booleanAnd": true,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -6412,7 +6412,7 @@
             "attrib": 6,
             "str": "service@paypal.com"
           },
-          "booleanAnd": false,
+          "booleanAnd": true,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -6422,7 +6422,7 @@
             "attrib": 1,
             "str": "paypal@mail.paypal.at"
           },
-          "booleanAnd": false,
+          "booleanAnd": true,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -6432,7 +6432,7 @@
             "attrib": 6,
             "str": "paypal@mail.paypal.at"
           },
-          "booleanAnd": false,
+          "booleanAnd": true,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -6442,7 +6442,7 @@
             "attrib": 1,
             "str": "service@paypal.at"
           },
-          "booleanAnd": false,
+          "booleanAnd": true,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -6452,7 +6452,7 @@
             "attrib": 6,
             "str": "service@paypal.at"
           },
-          "booleanAnd": false,
+          "booleanAnd": true,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
