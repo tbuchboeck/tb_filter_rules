@@ -1,7 +1,7 @@
 {
   "accountName": "imap://thomas%40buchboeck.at@imap.easyname.com",
   "rootFolderURL": "imap://thomas%40buchboeck.at@imap.easyname.com",
-  "date": "2024-06-05T06:34:50.657Z",
+  "date": "2024-06-05T06:36:45.534Z",
   "filters": [
     {
       "filterName": "Contracts » Oeamtc",
@@ -5784,7 +5784,7 @@
             "attrib": 1,
             "str": "netflix.com"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -5810,7 +5810,7 @@
             "attrib": 6,
             "str": "roadrunner@xlink.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -5837,7 +5837,7 @@
             "attrib": 1,
             "str": "d.laimer@badischl.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -5847,7 +5847,7 @@
             "attrib": 1,
             "str": "mysliwietz@badischl.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -5857,7 +5857,7 @@
             "attrib": 1,
             "str": "stampfl@badischl.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -5867,7 +5867,7 @@
             "attrib": 6,
             "str": "stampfl@badischl.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -5893,7 +5893,7 @@
             "attrib": 0,
             "str": "homeoffix"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -5919,7 +5919,7 @@
             "attrib": 1,
             "str": "dazn.com"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -6095,7 +6095,7 @@
             "attrib": 1,
             "str": "noreply@westbahn.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -6122,7 +6122,7 @@
             "attrib": 1,
             "str": "news@euroflorist.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -6365,7 +6365,7 @@
             "attrib": 1,
             "str": "jankozel@yahoo.com"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -6392,7 +6392,7 @@
             "attrib": 1,
             "str": "service@paypal.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -6402,7 +6402,7 @@
             "attrib": 1,
             "str": "service@paypal.com"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -6412,7 +6412,7 @@
             "attrib": 6,
             "str": "service@paypal.com"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -6422,7 +6422,7 @@
             "attrib": 1,
             "str": "paypal@mail.paypal.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -6432,17 +6432,7 @@
             "attrib": 6,
             "str": "paypal@mail.paypal.at"
           },
-          "booleanAnd": true,
-          "beginsGrouping": 0,
-          "endsGrouping": 0
-        },
-        {
-          "attrib": 1,
-          "value": {
-            "attrib": 1,
-            "str": "service@paypal.at"
-          },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -6452,7 +6442,7 @@
             "attrib": 6,
             "str": "service@paypal.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -6479,7 +6469,7 @@
             "attrib": 1,
             "str": "office@logoix.com"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -6544,7 +6534,7 @@
             "attrib": 1,
             "str": "news@hirezstudios.com"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -6571,7 +6561,7 @@
             "attrib": 1,
             "str": "noreply_meine_abrechnung@paylife.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         },
@@ -6581,7 +6571,7 @@
             "attrib": 1,
             "str": "@r-card-service.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -6608,7 +6598,7 @@
             "attrib": 1,
             "str": "lemmerer.34545@raiffeisen-ooe.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -6635,7 +6625,7 @@
             "attrib": 1,
             "str": "members@service.babbel.com"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -6662,7 +6652,7 @@
             "attrib": 1,
             "str": "send@newsletter.swarovski-newsletter.com"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -6689,7 +6679,7 @@
             "attrib": 1,
             "str": "erich@schymonski.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -7077,7 +7067,7 @@
             "attrib": 1,
             "str": "fitbit.com"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -7130,7 +7120,7 @@
             "attrib": 1,
             "str": "groesswang@hitzenberger.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
@@ -7213,7 +7203,7 @@
             "attrib": 1,
             "str": "noreply@communitymail.derstandard.at"
           },
-          "booleanAnd": true,
+          "booleanAnd": false,
           "beginsGrouping": 0,
           "endsGrouping": 0
         }
